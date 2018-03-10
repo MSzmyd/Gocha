@@ -9,6 +9,7 @@ zmiana 1
 Zmiana 2
 
 zmiana 3
+Dla firmy produkcyjnej z województwa podkarpackiego opracowaliœmy model, który zawiera³ propozycjê rozk³adu stanowisk roboczych oraz maszyn i urz¹dzeñ w nowo projektowanej hali produkcyjnej inwestora (przedsiêbiorcy). Model ten zosta³ opracowany przy u¿yciu specjalistycznego oprogramowania do analizy symulacyjnej procesów w celu optymalizacji funkcjonowania przedsiêbiorstwa i minimalizacji kosztów. 
 
 </body>
 </html>
